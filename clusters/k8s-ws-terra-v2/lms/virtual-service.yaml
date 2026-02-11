@@ -12,6 +12,6 @@ spec:
   http:
     - route:
         - destination:
-            host: lms-static-svc.lms.svc.cluster.local
+            host: 
             port:
               number: 80
